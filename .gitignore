@@ -1,0 +1,21 @@
+# Node.js dependencies
+node_modules/
+
+# Python virtual environments
+.venv/
+venv/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+
+# macOS files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
